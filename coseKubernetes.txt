@@ -1,0 +1,7 @@
+Kubernetes (spesso abbreviato in K8s) è una piattaforma open-source per l'orchestrazione 
+di container. In parole semplici, è un software che automatizza la distribuzione,
+ la gestione, lo scaling (il ridimensionamento) e il coordinamento di applicazioni
+  containerizzate all'interno di una rete di server.
+Nato originariamente nei laboratori di Google e oggi gestito dalla Cloud Native Computing
+ Foundation (CNCF), Kubernetes rappresenta lo standard di fatto per far girare applicazion
+ i moderne nel cloud in modo stabile e scalabile
