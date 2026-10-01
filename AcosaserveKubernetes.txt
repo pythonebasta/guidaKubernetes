@@ -1,0 +1,5 @@
+ Kubernetes (K8s) è una piattaforma di orchestrazione
+  dei container. 
+  In pratica serve a gestire automaticamente applicazioni
+   eseguite in container (ad esempio Docker)
+    su uno o più serverorchestrazione dei container. 
