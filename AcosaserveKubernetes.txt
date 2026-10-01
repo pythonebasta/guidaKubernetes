@@ -2,4 +2,4 @@
   dei container. 
   In pratica serve a gestire automaticamente applicazioni
    eseguite in container (ad esempio Docker)
-    su uno o più serverorchestrazione dei container. 
+    su uno o più serverorchestrazione dei container. Non é vero!!!
