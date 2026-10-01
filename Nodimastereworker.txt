@@ -1,0 +1,3 @@
+I nodi master e worker sono componenti tipici di un cluster,
+ ad esempio in Kubernetes, ma il concetto esiste anche in altri
+ sistemi distribuiti.
